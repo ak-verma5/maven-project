@@ -1,6 +1,6 @@
 <html>
 <body>
-<h2>Welcome all participants</h2>
+<h2>Welcome to csb bank application</h2>
 
 <form action="welcome.jsp" method="get">
 
